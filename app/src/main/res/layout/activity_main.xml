@@ -1,0 +1,50 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.main.MainActivity"
+    android:padding="12dp"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="0dp"
+            android:id="@+id/btnLine"
+            android:text="Line"
+            android:layout_weight="0.5"
+            android:drawableRight="@drawable/linechart"
+            android:layout_height="wrap_content" />
+
+
+        <Button
+            android:layout_width="0dp"
+            android:id="@+id/btnbar"
+            android:text="Bar"
+            android:layout_weight="0.5"
+            android:drawableRight="@drawable/barchart"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:id="@+id/viewLayout"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+    </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/progress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:visibility="gone"
+        />
+
+</LinearLayout>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\mua\Documents\GitHub\retro-dagger-example\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\mua\Documents\GitHub\retro-dagger-example\app\build\intermediates\pre-dexed\debug\classes-f8cabaadfdebdd1e52e869fa276e35ea625038e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\mua\Documents\GitHub\retro-dagger-example\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\mua\Documents\GitHub\retro-dagger-example\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-b25e14e45f9b068af226b033030cbce40fc4100f.jar" />
+    </item>
+    <item
+        jar="C:\Users\mua\Documents\GitHub\retro-dagger-example\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\mua\Documents\GitHub\retro-dagger-example\app\build\intermediates\pre-dexed\debug\classes-20382f977e2fc7c61309b7d9a0da2f1a458bf5b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\mua\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\mua\Documents\GitHub\retro-dagger-example\app\build\intermediates\pre-dexed\debug\gson-2.3.1-9a085210b246bc7e2e8c5680096c4851a2eec91c.jar" />
+    </item>
+    <item
+        jar="C:\Users\mua\Documents\GitHub\Number26-Assignment\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\mua\Documents\GitHub\Number26-Assignment\app\build\intermediates\pre-dexed\debug\classes-a4afc03cf1209c68709109eba4ee1aed8dde7f07.jar" />
+    </item>
+    <item
+        jar="C:\Users\mua\Documents\GitHub\test\bitCoin-Rates-Number26\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\mua\Documents\GitHub\test\bitCoin-Rates-Number26\app\build\intermediates\pre-dexed\debug\classes-e59aca6f9f84cbcb690d7b994b31e0a9e7bb08e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\mua\Documents\GitHub\test\bitCoin-Rates-Number26\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\mua\Documents\GitHub\test\bitCoin-Rates-Number26\app\build\intermediates\pre-dexed\debug\classes-547209572bf71e184262ace68b15ddc95b4b07bf.jar" />
+    </item>
+    <item
+        jar="C:\Users\mua\Documents\GitHub\test\bitCoin-Rates-Number26\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\mua\Documents\GitHub\test\bitCoin-Rates-Number26\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-f10ac5712bc605236d45124e563940863e1a839f.jar" />
+    </item>
+    <item
+        jar="C:\Users\mua\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.0\da7ba0ee1d30edd955da276cdf01d3d7cb24aedc\dagger-2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="da7ba0ee1d30edd955da276cdf01d3d7cb24aedc">
+        <dex dex="C:\Users\mua\Documents\GitHub\retro-dagger-example\app\build\intermediates\pre-dexed\debug\dagger-2.0-48fbe04fb6dd0c7ff92ee10feeb190b5e3cddce1.jar" />
+    </item>
+    <item
+        jar="C:\Users\mua\Documents\GitHub\test\bitCoin-Rates-Number26\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\mua\Documents\GitHub\test\bitCoin-Rates-Number26\app\build\intermediates\pre-dexed\debug\classes-a3110d176cea897cc6e802ad36cf4601b07667cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\mua\Documents\GitHub\retro-dagger-example\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\mua\Documents\GitHub\retro-dagger-example\app\build\intermediates\pre-dexed\debug\classes-9122b33bac061ca095186b685ad4d7baaa001105.jar" />
+    </item>
+    <item
+        jar="C:\Users\mua\Documents\GitHub\Number26-Assignment\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\mua\Documents\GitHub\Number26-Assignment\app\build\intermediates\pre-dexed\debug\classes-e515bc8f1839db4e5cf0b3597525499de93d0ac1.jar" />
+    </item>
+    <item
+        jar="C:\Users\mua\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\mua\Documents\GitHub\retro-dagger-example\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-d57bcc1ba8ac8d66727872459f090d68e0adaa3e.jar" />
+    </item>
+    <item
+        jar="C:\Users\mua\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\mua\Documents\GitHub\retro-dagger-example\app\build\intermediates\pre-dexed\debug\javax.inject-1-4c7a5dffde4b9a660ef8f278ae8ebbbb61a5290d.jar" />
+    </item>
+    <item
+        jar="C:\Users\mua\Documents\GitHub\retro-dagger-example\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Users\mua\Documents\GitHub\retro-dagger-example\app\build\intermediates\pre-dexed\debug\classes-d48694e469f96d9ea4b77c7197ccac80ca29da32.jar" />
+    </item>
+    <item
+        jar="C:\Users\mua\Documents\GitHub\Number26-Assignment\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\mua\Documents\GitHub\Number26-Assignment\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-2bba7e9ef4c037e60c6c25c3d0c04195cd562f1b.jar" />
+    </item>
+    <item
+        jar="C:\Users\mua\Documents\GitHub\test\bitCoin-Rates-Number26\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Users\mua\Documents\GitHub\test\bitCoin-Rates-Number26\app\build\intermediates\pre-dexed\debug\classes-bb08b377a3dafbc0f98cd30c5f3db6ca450c4153.jar" />
+    </item>
+    <item
+        jar="C:\Users\mua\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="C:\Users\mua\Documents\GitHub\retro-dagger-example\app\build\intermediates\pre-dexed\debug\butterknife-6.1.0-13f881477436556b9b4ee0a9412acfeed138fdde.jar" />
+    </item>
+    <item
+        jar="C:\Users\mua\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Users\mua\Documents\GitHub\retro-dagger-example\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0-82554cdb29a023afc7d7ca1bbc1af42fa8de5bcd.jar" />
+    </item>
+
+</items>
